@@ -1,0 +1,55 @@
+Name,Email,Social,Rank,Place
+"<div class=""profile__info"">
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Должность        </h3>
+</div>
+<h4 class=""mb-2"">Основатель</h4>
+<p>Меняйтесь.рф - обучение корпоративному управлению, продвижение в Советы директоров, создание корпораций из среднего/крупного бизнеса</p>
+</div>
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Контакты        </h3>
+</div>
+<p class=""mb-2"">Россия, Нижегородская область, г. Нижний Новгород</p>
+<p><a target=""_blank""></a></p>
+<div class=""socials socials--blue socials--short"">
+<a class=""socials__item socials__item--twitter"" href=""http://twitter.com/Red_Lebedev"" target=""_blank"" title=""Twitter: Red_Lebedev""></a> <a class=""socials__item socials__item--fb"" href=""http://facebook.com/red.lebedev"" target=""_blank"" title=""Facebook: red.lebedev""></a> <a class=""socials__item socials__item--li"" href=""http://linkedin.com/in/redlebedev"" target=""_blank"" title=""Linkedin: redlebedev""></a> <a class=""socials__item socials__item--wb"" href=""http://Alex-Lebedev.Ru"" target=""_blank"" title=""LiveJournal: http://Alex-Lebedev.Ru""></a> <a class=""socials__item socials__item--vk"" href=""https://vk.com/redlebedev"" target=""_blank"" title=""Вконтакте: https://vk.com/redlebedev""></a> </div>
+</div> </div>","Россия, Нижегородская область, г. Нижний Новгород",,Основатель,"Меняйтесь.рф - обучение корпоративному управлению, продвижение в Советы директоров, создание корпораций из среднего/крупного бизнеса"
+"<div class=""profile__info"">
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Должность        </h3>
+</div>
+<h4 class=""mb-2"">Вице-президент - Заместитель председателя Правления</h4>
+<p>Национальная технологическая палата</p>
+</div>
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Контакты        </h3>
+</div>
+<p class=""mb-2"">Россия, г. Москва</p>
+<p><a target=""_blank""></a></p>
+<div class=""socials socials--blue socials--short"">
+<a class=""socials__item socials__item--li"" href=""https://ru.linkedin.com/in/texnopark"" target=""_blank"" title=""Linkedin: https://ru.linkedin.com/in/texnopark""></a> <a class=""socials__item socials__item--fb"" href=""https://www.facebook.com/aleksandr.hrebtov"" target=""_blank"" title=""Facebook: https://www.facebook.com/aleksandr.hrebtov""></a> </div>
+</div> </div>","Россия, г. Москва",,Вице-президент - Заместитель председателя Правления,Национальная технологическая палата
+"<div class=""profile__info"">
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Должность        </h3>
+</div>
+<h4 class=""mb-2"">Региональный директор</h4>
+<p>Prodinko</p>
+</div>
+<div class=""profile__info-section"">
+<div class=""align-items-sm-center mb-3"">
+<h3 class=""profile__section-header mr-0 mr-sm-4"">
+            Контакты        </h3>
+</div>
+<p class=""p--gray"">Эта информация скрыта пользователем</p>
+</div> </div>",Эта информация скрыта пользователем,,Региональный директор,Prodinko
