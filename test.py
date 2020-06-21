@@ -44,7 +44,7 @@ def parsPerson(text):
     wrapperContent = soup.find("div", {"class": "wrapper__content"})
     profileContent = wrapperContent.find("div", {"class": "section--white"}).find("div", {"class": "profile__content"})
     profInfo = profileContent.find("div", {"class": "profile__info"})
-    vk = fb = email = workorganization = innovationsineconomy = informationexchange = projectmanagement = restcomp = allcompetencies = 'none'
+    vk = fb = email = workorganization = innovationsineconomy = informationexchange = projectmanagement = restcomp = allcompetencies = ''
     try:
         socials = profInfo.find_all("div", {"class": "profile__info-section"})[1]
         contactsfrommb2 = socials.find_all("p", {"class": "mb-2"})
@@ -82,9 +82,9 @@ def parsPerson(text):
                 print('found fb ' + fb)
             except:
                 return -1
-    if vk == 'none':
-        if fb == 'none':
-            if email == 'none':
+    if not vk:
+        if not fb:
+            if not email:
                 return -1
     try:
         competencies = profInfo.find_all("div", {"class": "profile__section"})[3].find("div", {"id": "yw0"})
@@ -112,8 +112,8 @@ def parsPerson(text):
         allCompanies = []
         for data in listOfCareer:
             prof = data.find("h4", {"class": "timeline__item-header"}).text
-            companu = data.find("p", {"class": "timeline__item-dscr"}).find("a").text
-            allCompanies.append(companu)
+            companynew = data.find("p", {"class": "timeline__item-dscr"}).find("a").text
+            allCompanies.append(companynew)
             career.append(prof)
         careers = ", ".join(np.unique(career))
         companies = ", ".join(np.unique(allCompanies))
@@ -126,10 +126,10 @@ def parsPerson(text):
             'Email': email,
             'VK': vk,
             'Facebook': fb,
-            'Profession': profession,
-            'Company': company,
-            'Career': careers,
-
+            'Current Profession': profession,
+            'Current company': company,
+            'Old professions': careers,
+            'Old companies': companies,
             'Place': place,
             'Work organization competency': workorganization,
             'Innovation in economics': innovationsineconomy,
@@ -145,15 +145,15 @@ opts = Options()
 opts.headless = True
 
 #parsPerson(openBrowser('https://leader-id.ru/261299/'))
-fieldnames = ['ID', 'Name', 'Email', 'VK', 'Facebook', 'Profession', 'Company', 'Career', 'Place',
-              'Work organization competency', 'Innovation in economics', 'Information exchange and communication',
+fieldnames = ['ID', 'Name', 'Email', 'VK', 'Facebook', 'Current Profession', 'Current company', 'Old professions',
+            'Old companies', 'Place', 'Work organization competency', 'Innovation in economics', 'Information exchange and communication',
               'Project management', 'Rest competencies', 'All competencies', 'Tags', 'Age']
 
 with open("people.csv", "w", encoding='utf-8') as f:
     writer = csv.DictWriter(f, delimiter=';', fieldnames=fieldnames)
     writer.writeheader()
 
-for i in range(27, 30):  # перебираем возраст пользователей
+for i in range(20, 31):  # перебираем возраст пользователей
     # 38570 страниц всего
     browser = Firefox(options=opts)
     browser.get("https://leader-id.ru/users/?age={0}-{0}&page=100000".format(i))
@@ -175,3 +175,5 @@ for i in range(27, 30):  # перебираем возраст пользова�
                 findAllPersons(element)
         except:
             findAllPersons(element)
+
+
