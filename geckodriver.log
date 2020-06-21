@@ -26706,3 +26706,104 @@ JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to cr
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1592741793576	Marionette	INFO	Listening on port 60170
 1592741793722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741796641	Marionette	INFO	Stopped listening on port 60170
+1592741799892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileTOnPW7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741802387	Marionette	INFO	Listening on port 60223
+1592741802878	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741806637	Marionette	INFO	Stopped listening on port 60223
+1592741808386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileqNjiqx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741810791	Marionette	INFO	Listening on port 60283
+1592741811001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741814836	Marionette	INFO	Stopped listening on port 60283
+1592741816512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileWJ3Uzx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741819582	Marionette	INFO	Listening on port 60337
+1592741819683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741822579	Marionette	INFO	Stopped listening on port 60337
+1592741824333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofile1uN27c"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741826827	Marionette	INFO	Listening on port 60395
+1592741826951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741831364	Marionette	INFO	Stopped listening on port 60395
+1592741833076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofile6UzHCE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741835406	Marionette	INFO	Listening on port 60453
+1592741835689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741838747	Marionette	INFO	Stopped listening on port 60453
+1592741840788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileXtZmiA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741843149	Marionette	INFO	Listening on port 60509
+1592741843402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741846180	Marionette	INFO	Stopped listening on port 60509
+1592741848134	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofilefljQDd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741850547	Marionette	INFO	Listening on port 60565
+1592741850799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741853767	Marionette	INFO	Stopped listening on port 60565
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3800B3,name=PContent::Msg_StartVisitedQueries) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5308, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592741855554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileQKd0pR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741858271	Marionette	INFO	Listening on port 60625
+1592741858691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741861551	Marionette	INFO	Stopped listening on port 60625
+1592741863149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileBo5xjd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741866286	Marionette	INFO	Listening on port 60683
+1592741866775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741869290	Marionette	INFO	Stopped listening on port 60683
+1592741870868	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofile9vMW9R"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592741873074	Marionette	INFO	Listening on port 60738
+1592741873480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://mc.yandex.ru/metrika/watch.js, line 56: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1592741876027	Marionette	INFO	Stopped listening on port 60738
+1592741877693	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\aydar\\AppData\\Local\\Temp\\rust_mozprofileJpJxdd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
